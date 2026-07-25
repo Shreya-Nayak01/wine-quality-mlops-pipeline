@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/PROJECTS/wine-quality-mlops-pipeline/mlruns/0/711db04961df4c4e983bc8a36bee7e86/artifacts
+end_time: 1784976131191
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 711db04961df4c4e983bc8a36bee7e86
+run_name: suave-ox-718
+run_uuid: 711db04961df4c4e983bc8a36bee7e86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1784976126218
+status: 3
+tags: []
+user_id: Shreya Nayak
