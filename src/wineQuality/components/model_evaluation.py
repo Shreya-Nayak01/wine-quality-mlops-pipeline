@@ -10,8 +10,7 @@ from wineQuality.entity.config_entity import ModelEvaluationConfig
 from wineQuality.utils.common import save_json
 from pathlib import Path
 
-import dagshub
-dagshub.init(repo_owner='nayakshreya35', repo_name='wine-quality-mlops-pipeline', mlflow=True)
+
 
 class ModelEvaluation:
     def __init__(self, config: ModelEvaluationConfig):
