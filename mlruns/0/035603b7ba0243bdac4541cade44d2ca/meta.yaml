@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/PROJECTS/wine-quality-mlops-pipeline/mlruns/0/035603b7ba0243bdac4541cade44d2ca/artifacts
+end_time: 1785244234994
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 035603b7ba0243bdac4541cade44d2ca
+run_name: abrasive-midge-902
+run_uuid: 035603b7ba0243bdac4541cade44d2ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785244228916
+status: 3
+tags: []
+user_id: Shreya Nayak

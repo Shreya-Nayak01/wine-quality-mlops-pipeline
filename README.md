@@ -26,11 +26,11 @@ https://github.com/Shreya-Nayak01/wine-quality-mlops-pipeline.git
 ### STEP 01- Create a conda environment after opening the repository
 
 ```bash
-conda create -n mlproj python=3.8 -y
+conda create -n wineQuality python=3.8 -y
 ```
 
 ```bash
-conda activate mlproj
+conda activate wineQuality
 ```
 
 

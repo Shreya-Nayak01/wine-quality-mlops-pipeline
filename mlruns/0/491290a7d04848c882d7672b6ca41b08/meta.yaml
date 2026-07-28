@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/PROJECTS/wine-quality-mlops-pipeline/mlruns/0/491290a7d04848c882d7672b6ca41b08/artifacts
+end_time: 1785244821080
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 491290a7d04848c882d7672b6ca41b08
+run_name: valuable-quail-333
+run_uuid: 491290a7d04848c882d7672b6ca41b08
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785244816864
+status: 3
+tags: []
+user_id: Shreya Nayak

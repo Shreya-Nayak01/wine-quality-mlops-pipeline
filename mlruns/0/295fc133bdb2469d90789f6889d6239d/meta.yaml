@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/PROJECTS/wine-quality-mlops-pipeline/mlruns/0/295fc133bdb2469d90789f6889d6239d/artifacts
+end_time: 1785245834270
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 295fc133bdb2469d90789f6889d6239d
+run_name: resilient-ant-696
+run_uuid: 295fc133bdb2469d90789f6889d6239d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785245829490
+status: 3
+tags: []
+user_id: Shreya Nayak
